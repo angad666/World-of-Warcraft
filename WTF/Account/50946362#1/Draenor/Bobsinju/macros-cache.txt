@@ -1,0 +1,68 @@
+VER 3 0100000000000010 "-" "INV_MISC_QUESTIONMARK"
+#showtooltip [talent:5/2] Mortal Coil; [talent:5/3] Demonic Circle: Teleport
+END
+VER 3 0100000000000001 "1" "INV_Misc_QuestionMark"
+#showtooltip [spec:3]Conflagrate;[spec:1,talent:6/2]Haunt; [spec:1] Nether Ward
+/use [nomod,spec:3]Chaos Bolt;[mod:shift,@arena1,exists]fear;[mod:alt,@arena2]fear;[mod:ctrl,@arena3]fear;[nomod,spec:1,talent:2/3]Siphon Life;[mod:shift]fear
+END
+VER 3 0100000000000002 "2" "INV_Misc_QuestionMark"
+#showtooltip [spec:3]Conflagrate;[spec:1,talent:6/2]Haunt; [spec:1] Nether Ward
+/click [btn:1]MTSB121 LeftButton;[btn:2]MTSB121 RightButton;[btn:3]MTSB121 MiddleButton;[btn:4]MTSB121 Button4;[btn:5]MTSB121 Button5
+END
+VER 3 0100000000000003 "3" "INV_Misc_QuestionMark"
+#showtooltip [spec:3,talent:7/2] Channel Demonfire;[spec:3,talent:7/3] Dark Soul: Instability;[spec:1]Deathbolt
+/click [btn:1]MTSB122 LeftButton;[btn:2]MTSB122 RightButton;[btn:3]MTSB122 MiddleButton;[btn:4]MTSB122 Button4;[btn:5]MTSB122 Button5
+END
+VER 3 0100000000000004 "4" "INV_Misc_QuestionMark"
+#showtooltip [spec:3,talent:7/2] Channel Demonfire;[spec:3,talent:7/3] Dark Soul: Instability;[spec:1]Deathbolt
+/cast [nomod,spec:3] immolate;[mod:shift,@cursor] Shadowfury;[nomod,spec:1] Unstable Affliction
+END
+VER 3 010000000000000D "`" "INV_Misc_QuestionMark"
+#showtooltip [pet:felhunter] Spell Lock; [pet:Imp] Singe Magic; [talent:6/3] Command Demon
+/cast [nomod,pet:felhunter] Spell Lock; [nomod,pet:imp] Singe Magic; [nomod,talent:6/3] Command Demon
+END
+VER 3 0100000000000005 "A" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:3,talent:4/3] Cataclysm;[spec:1] Phantom Singularity
+/cast [nomod,spec:3] Cataclysm; [mod:alt,] Demonic Gateway;[nomod,spec:1] Phantom Singularity;[mod:shift] Nether Ward; 
+END
+VER 3 010000000000000B "B" "INV_Misc_QuestionMark"
+#showtooltip Soulstone
+/cast banish
+END
+VER 3 0100000000000007 "D" "INV_Misc_QuestionMark"
+#showtooltip [spec:3] Havoc; [spec:1,talent:5/2] Mortal Coil; [talent:5/3] Demonic Circle: Teleport
+/cast [nomod,talent: 3/2] Burning Rush;[nomod,talent:3/3] Dark Pact;[mod:shift] Vicious War Wolf; [mod:alt,spec:1] Seed of Corruption
+END
+VER 3 0100000000000008 "F" "INV_Misc_QuestionMark"
+#showtooltip [spec:3] Summon infernal; [spec:1] Summon Darkglare
+/cast [nomod,spec:3] Channel Demonfire; [mod:shift,spec:3, @cursor] Summon Infernal; [mod:alt] Summon Felhunter;[mod:shift,spec:1] Summon Darkglare;[nomod,spec:1] Deathbolt
+END
+VER 3 010000000000000E "num1" "INV_Misc_QuestionMark"
+#showtooltip [pet:felhunter] Spell Lock; [pet:Imp] Singe Magic; [talent:6/3] Command Demon
+/cast Create Soulwell
+END
+VER 3 010000000000000F "num2" "INV_MISC_QUESTIONMARK"
+#showtooltip Shadowfury
+/use [@mouseover, exists][] Soulstone
+END
+VER 3 0100000000000009 "R" "INV_Misc_QuestionMark"
+#showtooltip [spec:3] Summon infernal; [spec:1] Summon Darkglare
+/cast [nomod,spec:3] Havoc; [spec:1,nomod] Shadow Bolt ;[mod:shift,spec:3]Dark Soul: Instability; [mod:shift,spec:1]Dark Soul: Misery
+END
+VER 3 0100000000000006 "S" "INV_Misc_QuestionMark"
+#showtooltip [spec:3] Havoc; [spec:1,talent:5/2] Mortal Coil; [talent:5/3] Demonic Circle: Teleport
+/click [btn:1]MTSB123 LeftButton;[btn:2]MTSB123 RightButton;[btn:3]MTSB123 MiddleButton;[btn:4]MTSB123 Button4;[btn:5]MTSB123 Button5
+END
+VER 3 0100000000000011 "s5" "INV_MISC_QUESTIONMARK"
+/cast Blood Fury(Racial)
+/use 13
+/use 14
+END
+VER 3 010000000000000C "T" "INV_Misc_QuestionMark"
+#showtooltip Soulstone
+/cast [nomod] Drain Life; [mod: ctrl] Health Funnel
+END
+VER 3 010000000000000A "V" "INV_Misc_QuestionMark"
+#showtooltip Unending Resolve
+/cast Unending Resolve;
+END

@@ -1,0 +1,71 @@
+VER 3 0100000000000015 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1]Hex;[spec:3]Earthen Wall Totem
+/click [btn:1]MTSB121 LeftButton;[btn:2]MTSB121 RightButton;[btn:3]MTSB121 MiddleButton;[btn:4]MTSB121 Button4;[btn:5]MTSB121 Button5
+END
+VER 3 0100000000000016 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1]Hex;[spec:3]Earthen Wall Totem
+/click [btn:1]MTSB122 LeftButton;[btn:2]MTSB122 RightButton;[btn:3]MTSB122 MiddleButton;[btn:4]MTSB122 Button4;[btn:5]MTSB122 Button5
+END
+VER 3 010000000000001A "3" "INV_MISC_QUESTIONMARK"
+#showtooltip Lava Burst
+/use [nomod,spec:1]Lava burst;[nomod,spec:3,@mouseover,exists][nomod,spec:3]Healing Surge;[mod:shift]Skyfury Totem;[mod:alt,@cursor]Capacitor Totem;[mod:ctrl,@cursor]Earthquake
+END
+VER 3 010000000000001B "4" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1]Lava Burst;[spec:3]Cloudburst Totem
+/click [btn:1]MTSB123 LeftButton;[btn:2]MTSB123 RightButton;[btn:3]MTSB123 MiddleButton;[btn:4]MTSB123 Button4;[btn:5]MTSB123 Button5
+END
+VER 3 010000000000001D "A" "INV_MISC_QUESTIONMARK"
+#showtooltip Ascendance
+/use [nomod,spec:1]Stormkeeper;[mod:shift,spec:1]Healing Surge;[nomod,spec:3,@cursor]Earthen Wall Totem;[mod:alt,spec:1,@cursor]Liquid Magma Totem
+/use [mod:alt]Plunderbeard's Flask
+END
+VER 3 0100000000000023 "B" "INV_MISC_QUESTIONMARK"
+#showtooltip Astral Shift
+/click [btn:1]MTSB124 LeftButton;[btn:2]MTSB124 RightButton;[btn:3]MTSB124 MiddleButton;[btn:4]MTSB124 Button4;[btn:5]MTSB124 Button5
+END
+VER 3 0100000000000021 "C" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1] Gladiator's Medallion; [spec: 3] Riptide
+/click [btn:1]MTSB125 LeftButton;[btn:2]MTSB125 RightButton;[btn:3]MTSB125 MiddleButton;[btn:4]MTSB125 Button4;[btn:5]MTSB125 Button5
+END
+VER 3 0100000000000020 "D" "INV_MISC_QUESTIONMARK"
+#showtooltip Thunderstorm
+/click [btn:1]MTSB126 LeftButton;[btn:2]MTSB126 RightButton;[btn:3]MTSB126 MiddleButton;[btn:4]MTSB126 Button4;[btn:5]MTSB126 Button5
+END
+VER 3 0100000000000014 "EQ" "INV_MISC_QUESTIONMARK"
+/use [@cursor]Earthquake
+END
+VER 3 010000000000001E "F" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1]Flame Shock;[spec:3]Healing Tide Totem
+/click [btn:1]MTSB127 LeftButton;[btn:2]MTSB127 RightButton;[btn:3]MTSB127 MiddleButton;[btn:4]MTSB127 Button4;[btn:5]MTSB127 Button5
+END
+VER 3 0100000000000025 "num1" "INV_MISC_QUESTIONMARK"
+#showtooltip Berserking
+/use [nomod]Berserking
+END
+VER 3 0100000000000026 "num2" "INV_MISC_QUESTIONMARK"
+#showtooltip berserking
+/use [nomod]Hex
+END
+VER 3 0100000000000027 "num3" "INV_MISC_QUESTIONMARK"
+#showtooltip Wind Rush Totem
+/use [nomod]Earth Elemental
+END
+VER 3 0100000000000028 "num4" "INV_MISC_QUESTIONMARK"
+#showtooltip Wind Rush Totem
+END
+VER 3 010000000000001C "R" "INV_MISC_QUESTIONMARK"
+#showtooltip Flame Shock
+/click [btn:1]MTSB128 LeftButton;[btn:2]MTSB128 RightButton;[btn:3]MTSB128 MiddleButton;[btn:4]MTSB128 Button4;[btn:5]MTSB128 Button5
+END
+VER 3 010000000000001F "S" "INV_MISC_QUESTIONMARK"
+#showtooltip Thunderstorm
+/use [nomod,spec:1]Thunderstorm;[nomod,spec:3,@mouseover]Purify Spirit;[mod:shift]Ghost Wolf;[mod:alt,@cursor]Cleanse Spirit;[mod:ctrl]Water Walking
+END
+VER 3 0100000000000024 "T" "INV_MISC_QUESTIONMARK"
+#showtooltip Astral Shift
+/use [nomod]Bloodlust
+END
+VER 3 0100000000000022 "V" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1]Gladiator's Medallion;[spec:3]Riptide
+/use [nomod]Astral Shift
+END

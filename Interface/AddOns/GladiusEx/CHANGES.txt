@@ -1,0 +1,10 @@
+lightweight tag a113ee82c14f9ed4887a3d74bd4c6977f7e827ee 1.1.0
+Author:	vendethiel <vendethiel@hotmail.fr>
+Date:	Mon Aug 20 20:30:38 2018 +0200
+
+commit a113ee82c14f9ed4887a3d74bd4c6977f7e827ee
+Author: vendethiel <vendethiel@hotmail.fr>
+Date:   Mon Aug 20 20:30:38 2018 +0200
+
+    preliminary BfA update
+

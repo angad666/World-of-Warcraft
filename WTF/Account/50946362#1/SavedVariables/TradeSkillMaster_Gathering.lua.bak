@@ -1,0 +1,42 @@
+
+TradeSkillMaster_GatheringDB = {
+	["g@ @timeFormat"] = "ago",
+	["profileKeys"] = {
+		["Deathsinjju - Draenor"] = "Default",
+		["Banksinjju - Draenor"] = "Default",
+		["Bobsinju - Draenor"] = "Default",
+		["Shambae - Draenor"] = "Default",
+	},
+	["_scopeKeys"] = {
+		["char"] = {
+			"Bobsinju - Draenor", -- [1]
+		},
+		["realm"] = {
+			"Draenor", -- [1]
+		},
+		["profile"] = {
+			"Default", -- [1]
+		},
+		["factionrealm"] = {
+			"Horde - Draenor", -- [1]
+		},
+	},
+	["g@ @autoShow"] = true,
+	["g@ @history"] = {
+	},
+	["g@ @deAbovePrice"] = "0c",
+	["_currentProfile"] = {
+		["Bobsinju - Draenor"] = "Default",
+	},
+	["g@ @deAboveVendor"] = false,
+	["g@ @autoStack"] = true,
+	["g@ @includeSoulbound"] = false,
+	["_hash"] = 14107345,
+	["g@ @ignore"] = {
+	},
+	["g@ @helpPlatesShown"] = {
+	},
+	["g@ @deMaxQuality"] = 3,
+	["_version"] = 1,
+	["g@ @logDays"] = 14,
+}

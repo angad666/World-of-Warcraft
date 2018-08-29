@@ -1,0 +1,11 @@
+VER 3 0100000000000001 "imprison" "INV_MISC_QUESTIONMARK"
+/cast [@focus, exists]  Imprison; Imprison
+END
+VER 3 0100000000000002 "int" "INV_MISC_QUESTIONMARK"
+/cast [@focus, exists] Consume Magic; Consume Magic
+END
+VER 3 0100000000000003 "swifty" "INV_MISC_QUESTIONMARK"
+/cast Nemesis
+/cast Fury of the Illidari(Artifact)
+/cast Chaos Blades
+END

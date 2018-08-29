@@ -1,0 +1,16 @@
+## Interface: 80000
+## Title: The Undermine Journal
+## Notes: Tue, August 28, 2018
+## OptionalDeps: Auctionator, AuctionLite, LibExtraTip
+## SavedVariablesPerCharacter: TUJTooltipsHidden
+## Version: 5.4.20180828
+
+libs\LibStub.lua
+libs\LibRealmInfo.lua
+libs\LibExtraTip\Load.xml
+
+GetDetailedItemLevelInfo.lua
+MarketData-US.lua
+MarketData-EU.lua
+TheUndermineJournal.lua
+

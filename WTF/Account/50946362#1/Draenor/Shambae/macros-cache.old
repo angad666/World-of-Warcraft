@@ -1,0 +1,73 @@
+VER 3 0100000000000015 "1" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec: 1] Hex; [spec: 3] Earthen Wall Totem
+/cast [nomod, spec:1] Earth Shock; [nomod, spec:3, @mouseover, exists][nomod,spec:3] Riptide; [mod: Shift, @arena1] Hex;[mod: Ctrl, @arena3] Hex;  [mod: Alt, @arena2] Hex;
+END
+VER 3 0100000000000016 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec: 1] Hex; [spec: 3]  Earthen Wall Totem
+/cast [nomod, spec:1] Lightning Bolt;[nomod, spec:3, @mouseover, exists][nomod, spec:3] Healing Wave; [mod: Shift, @arena1] Wind Shear; [mod: Ctrl, @arena3] Wind Shear;[mod:alt, @arena2]Wind Shear
+END
+VER 3 010000000000001A "3" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1] Lava burst;[spec:3] Cloudburst Totem
+/cast [nomod, spec:1] Lava burst;[nomod, spec:3, @mouseover, exists][nomod,spec:3]Healing Surge; [mod: shift] Skyfury Totem; [mod: alt, @cursor] Capacitor Totem; [mod: ctrl, @cursor] Earthquake;
+END
+VER 3 010000000000001B "4" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1] Lava Burst;[Spec:3]
+/cast [nomod, spec:1] Chain Lightning;[nomod, spec:3, @mouseover, exists][nomod, spec:3]Chain Heal; [mod: Shift, @cursor] Wind Rush Totem; [mod: Ctrl] Tremor Totem;[mod: Alt, @cursor] Earthbind Totem
+END
+VER 3 010000000000001D "A" "INV_MISC_QUESTIONMARK"
+#showtooltip  Ascendance
+/cast [nomod, spec:1] Stormkeeper; [mod:shift, spec:1] Healing Surge;[nomod, spec:3, @cursor] Earthen Wall Totem; [mod: alt, spec:1,@cursor] Liquid Magma Totem;
+/use [mod:alt] Plunderbeard's Flask
+END
+VER 3 0100000000000023 "B" "INV_MISC_QUESTIONMARK"
+#showtooltip Astral Shift
+/cast [nomod] Tremor Totem(Earth Totem)
+ 
+END
+VER 3 0100000000000021 "C" "INV_MISC_QUESTIONMARK"
+#showtooltip [ spec:1] Gladiator's Medallion; [spec: 3] Riptide
+/cast [nomod]  Gladiator's Medallion(PvP Talent)
+END
+VER 3 0100000000000020 "D" "INV_MISC_QUESTIONMARK"
+#showtooltip Thunderstorm
+/cast [nomod, spec:1] Totem Mastery; [mod: shift] Swift Purple Wind Rider; [mod:alt, spec:3] Healing Tide Totem;[nomod, spec:3,@mouseover, exists][nomod, spec:3] Earth Shield;[mod:alt, spec:1]Earth Shield
+END
+VER 3 0100000000000014 "EQ" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Earthquake
+END
+VER 3 010000000000001E "F" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1] Flame Shock; [spec:3] Healing Tide Totem
+/cast [nomod] Purge; [mod: alt, spec:3] Spirit Link Totem;[mod:ctrl] Ascendance;
+/use  [mod:ctrl] Plunderbeard's Flask
+END
+VER 3 0100000000000025 "num1" "INV_MISC_QUESTIONMARK"
+#showtooltip Berserking
+/cast [nomod] Berserking
+END
+VER 3 0100000000000026 "num2" "INV_MISC_QUESTIONMARK"
+#showtooltip berserking
+/cast [nomod] Hex
+END
+VER 3 0100000000000027 "num3" "INV_MISC_QUESTIONMARK"
+#showtooltip Wind Rush Totem
+/cast [nomod] Earth Elemental
+END
+VER 3 0100000000000028 "num4" "INV_MISC_QUESTIONMARK"
+#showtooltip Wind Rush Totem
+END
+VER 3 010000000000001C "R" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1] Flame Shock; [spec:3] Healing Tide Totem
+/cast [nomod, spec:1] Flame Shock;[nomod, spec:3] Healing Rain; [mod: shift, spec:1] Frost Shock;[spec:3, mod: shift] Spiritwalker's Grace
+END
+VER 3 010000000000001F "S" "INV_MISC_QUESTIONMARK"
+#showtooltip [spec:1] Thunderstorm;[spec:3] Purify Spirit
+/cast [nomod, spec:1] Thunderstorm;[nomod, spec: 3, @mouseover] Purify Spirit; [mod: shift] Ghost Wolf; [mod: alt, @cursor] Cleanse Spirit; [mod: ctrl] Water Walking;
+END
+VER 3 0100000000000024 "T" "INV_MISC_QUESTIONMARK"
+#showtooltip Astral Shift
+/cast [nomod] Bloodlust;
+END
+VER 3 0100000000000022 "V" "INV_MISC_QUESTIONMARK"
+#showtooltip [ spec:1] Gladiator's Medallion; [spec: 3] Riptide
+/cast [nomod] Astral Shift
+END

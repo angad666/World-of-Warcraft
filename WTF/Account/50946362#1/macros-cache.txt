@@ -1,0 +1,10 @@
+VER 3 0000000000000002 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Dalaran Hearthstone
+END
+VER 3 0000000000000003 "Fire ele" "INV_MISC_QUESTIONMARK"
+#showtooltip Fire Elemental
+/target [@player, nocombat]
+/cast Fire Elemental
+/targetlasttarget [nocombat]
+END

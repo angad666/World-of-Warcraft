@@ -1,0 +1,16 @@
+
+flyPlateBuffsDB = {
+	["profileKeys"] = {
+		["Bobina - Draenor"] = "Default",
+		["Bobsinjoo - Draenor"] = "Default",
+		["Deathsinjju - Draenor"] = "Default",
+		["Bobsinju - Draenor"] = "Default",
+		["Banksinjju - Draenor"] = "Default",
+		["Shambae - Draenor"] = "Default",
+	},
+	["version"] = 2,
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

@@ -1,0 +1,56 @@
+VER 3 0100000000000001 "bas1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Mighty Bash; Mighty Bash
+END
+VER 3 0100000000000002 "bas2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Mighty Bash
+END
+VER 3 0100000000000003 "bash3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Mighty Bash
+END
+VER 3 0100000000000011 "CD" "INV_MISC_QUESTIONMARK"
+/y ALLA HU AKBAR!!
+/cast Incarnation: King of the Jungle(Talent, Shapeshift)
+END
+VER 3 010000000000000A "clense 1" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Remove Corruption; Remove Corruption
+END
+VER 3 010000000000000E "cyc1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Cyclone; Cyclone
+END
+VER 3 010000000000000F "cyc2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Cyclone; Cyclone
+END
+VER 3 0100000000000010 "cyc3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Cyclone; Cyclone
+END
+VER 3 010000000000000B "heal" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Regrowth; Regrowth
+END
+VER 3 0100000000000004 "lock1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Skull Bash;  Skull Bash
+END
+VER 3 0100000000000005 "lock2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Skull Bash;  Skull Bash
+END
+VER 3 0100000000000006 "lock3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Skull Bash;  Skull Bash
+END
+VER 3 0100000000000007 "maim1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Maim; Maim
+END
+VER 3 0100000000000008 "maim2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Maim; Maim
+END
+VER 3 0100000000000009 "maim3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Maim; Maim
+END
+VER 3 010000000000000C "root" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Entangling Roots; Entangling Roots
+END
+VER 3 010000000000000D "talent1" "INV_MISC_QUESTIONMARK"
+/cast [talent: 1/3] Moonfire
+/cast [talent: 1/2, 6/2] Brutal Slash
+END
+VER 3 0100000000000012 "Thorns" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Thorns; Thorns
+END

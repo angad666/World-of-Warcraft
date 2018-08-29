@@ -1,0 +1,2 @@
+
+DBMPartyBfa_AllSavedVars = nil

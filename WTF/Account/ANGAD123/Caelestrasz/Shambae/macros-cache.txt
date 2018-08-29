@@ -1,0 +1,18 @@
+VER 3 0100000000000001 "hex1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Hex; Hex
+END
+VER 3 0100000000000002 "hex2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Hex; Hex
+END
+VER 3 0100000000000003 "hex3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Hex; Hex
+END
+VER 3 0100000000000004 "lock1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Wind Shear; Wind Shear
+END
+VER 3 0100000000000005 "lock2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Wind Shear; Wind Shear
+END
+VER 3 0100000000000006 "lock3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Wind Shear; Wind Shear
+END

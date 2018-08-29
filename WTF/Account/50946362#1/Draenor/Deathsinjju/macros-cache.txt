@@ -1,0 +1,34 @@
+VER 3 0100000000000005 "1 shot" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Pillar of Frost
+/cast Remorseless Winter
+/cast Obliteration
+/cast Hungering Rune Weapon
+/use Faulty Countermeasure
+/cast Chill Streak(Honor Talent)
+END
+VER 3 0100000000000008 "bait" "INV_MISC_QUESTIONMARK"
+/cast Remorseless Winter
+END
+VER 3 0100000000000009 "IBF" "INV_MISC_QUESTIONMARK"
+/cast Icebound Fortitude
+/cast Death Strike
+END
+VER 3 0100000000000004 "lock1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Mind Freeze; Mind Freeze
+END
+VER 3 0100000000000003 "lock2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Mind Freeze; Mind Freeze
+END
+VER 3 0100000000000007 "lock3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Mind Freeze; Mind Freeze
+END
+VER 3 0100000000000001 "pull1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] Death Grip; Death Grip
+END
+VER 3 0100000000000002 "pull2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2] Death Grip; Death Grip
+END
+VER 3 0100000000000006 "pull3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3] Death Grip; Death Grip
+END

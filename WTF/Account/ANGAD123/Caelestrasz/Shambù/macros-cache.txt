@@ -1,0 +1,48 @@
+VER 3 0100000000000003 "agony" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Agony
+END
+VER 3 0100000000000004 "corr" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Corruption
+END
+VER 3 0100000000000006 "fear1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Fear; Fear
+END
+VER 3 0100000000000007 "fear2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Fear; Fear
+END
+VER 3 0100000000000008 "fear3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Fear; Fear
+END
+VER 3 010000000000000E "focus fear" "INV_MISC_QUESTIONMARK"
+/cast [@focus, exists] Fear; Fear
+END
+VER 3 010000000000000F "focus intt" "INV_MISC_QUESTIONMARK"
+/cast [mod:Shift, @focus] Grimoire: Felhunter)
+/cast [nomod] Grimoire: Felhunter
+END
+VER 3 010000000000000D "focus lock" "INV_MISC_QUESTIONMARK"
+/cast [@focus, exists]Shadow Lock(Special Ability); Shadow Lock(Special Ability)
+END
+VER 3 0100000000000009 "int1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Call Felhunter; Call Felhunter
+END
+VER 3 010000000000000A "int2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Call Felhunter; Call Felhunter
+END
+VER 3 010000000000000B "int3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Call Felhunter; Call Felhunter
+END
+VER 3 0100000000000002 "SE" "135799"
+/target Soul Effigy
+/focus
+/targetlasttarget
+END
+VER 3 0100000000000005 "SL" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Siphon Life
+END
+VER 3 010000000000000C "T3" "INV_MISC_QUESTIONMARK"
+/cast [talent: 3/1] Demonic Circle;  [talent:3/2] Mortal Coil;  [talent:3/3] Shadowfury
+END
+VER 3 0100000000000001 "T6" "INV_MISC_QUESTIONMARK"
+/cast [talent:4/1] Phantom Singularity;  [talent:4/2] Seed of Corruption;  [talent:4/3] Soul Harvest
+END

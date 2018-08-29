@@ -1,0 +1,15 @@
+VER 3 0100000000000004 "sap1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1] sap
+END
+VER 3 0100000000000001 "ss1" "INV_MISC_QUESTIONMARK"
+/target arena1
+/cast [@arena1] Shadowstep
+END
+VER 3 0100000000000002 "ss2" "INV_MISC_QUESTIONMARK"
+/target arena2
+/cast [@arena2] Shadowstep
+END
+VER 3 0100000000000003 "ss3" "INV_MISC_QUESTIONMARK"
+/target arena3
+/cast [@arena3] Shadowstep
+END

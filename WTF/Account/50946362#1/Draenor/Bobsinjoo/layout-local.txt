@@ -1,0 +1,15 @@
+Version: 1
+Frame: TargetFrame
+FrameLevel: 1
+Anchor: CENTER
+X: 353
+Y: -124
+W: 232
+H: 100
+Frame: PlayerFrame
+FrameLevel: 1
+Anchor: CENTER
+X: -369
+Y: -136
+W: 232
+H: 100

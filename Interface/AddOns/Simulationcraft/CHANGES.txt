@@ -1,0 +1,10 @@
+lightweight tag 6733347fec1c4bb65eb2e3720cb82c715eda992f v1.10.6
+Author:	Dave Hendler <sollaires@gmail.com>
+Date:	Sun Aug 26 17:47:31 2018 -0700
+
+commit 6733347fec1c4bb65eb2e3720cb82c715eda992f
+Author: Dave Hendler <sollaires@gmail.com>
+Date:   Sun Aug 26 17:47:31 2018 -0700
+
+    1.10.6 - Support for Maghar Orcs and Dark Iron Dwarves
+

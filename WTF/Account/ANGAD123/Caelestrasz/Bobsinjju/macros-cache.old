@@ -1,0 +1,74 @@
+VER 3 0100000000000012 "123" "INV_MISC_QUESTIONMARK"
+/use Tirathon's Betrayal
+/use Kil'jaeden's Burning Wish
+END
+VER 3 0100000000000019 "123" "INV_MISC_QUESTIONMARK"
+/Cleartarget
+/Targetenemy
+/cast Pick Pocket 
+END
+VER 3 0100000000000007 "blind1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus, exists] Blind; Blind
+END
+VER 3 010000000000000B "cheapshot" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Cheap Shot
+END
+VER 3 010000000000000E "dance" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Shadowstep
+END
+VER 3 0100000000000013 "dance2" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Shadowstep;
+END
+VER 3 0100000000000015 "dps" "INV_MISC_QUESTIONMARK"
+/cast Shadow Blades
+/cast Symbols of Death
+END
+VER 3 0100000000000014 "dps" "INV_MISC_QUESTIONMARK"
+#showtooltip Goremaw's Bite(Artifact)
+/cast Symbols of Death
+/cast Goremaw's Bite(Artifact)
+END
+VER 3 0100000000000016 "final" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent:7/2]Marked for Death ; [talent:7/3]Death from Above;
+END
+VER 3 0100000000000004 "kick1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus, exists] Kick; Kick
+END
+VER 3 010000000000000C "kidney" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Kidney Shot
+END
+VER 3 010000000000000D "sap" "INV_MISC_QUESTIONMARK"
+#showtooltip Sap
+/Cleartarget
+/Targetenemy
+/cast Sap 
+END
+VER 3 0100000000000001 "sap1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus, exists] Sap; Sap
+END
+VER 3 010000000000000A "shadowstep" "INV_MISC_QUESTIONMARK"
+/cast [@focus, exists] Cheap Shot; Cheap Shot
+END
+VER 3 0100000000000010 "shadowstep3" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Cheap Shot; Cheap Shot
+END
+VER 3 0100000000000018 "soddfa" "INV_MISC_QUESTIONMARK"
+#showtooltip Death from Above
+/cast Symbols of Death
+/cast Death from Above
+/use Tirathon's Betrayal
+END
+VER 3 0100000000000011 "sprint" "INV_MISC_QUESTIONMARK"
+#showtooltip Symbols of Death
+/cast Symbols of Death
+/use Specter of Betrayal
+END
+VER 3 0100000000000017 "ssvanish" "INV_MISC_QUESTIONMARK"
+/cast vanish
+/cast Shadowstrike
+/stopattack
+END

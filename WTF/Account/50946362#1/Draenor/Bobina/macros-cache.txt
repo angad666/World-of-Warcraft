@@ -1,0 +1,42 @@
+VER 3 0100000000000009 "100 talent" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent: 7/1] Rune of Power
+/cast [talent: 7/3] Arcane Orb
+END
+VER 3 010000000000000B "123" "INV_MISC_QUESTIONMARK"
+/cancelaura Ice Block
+/cast Mass Invisibility
+END
+VER 3 010000000000000A "123" "INV_MISC_QUESTIONMARK"
+/cast Presence of Mind
+/cast Charged Up
+END
+VER 3 0100000000000008 "ae" "INV_MISC_QUESTIONMARK"
+/cast [@Fel Explosives, exist] Arcane Barrage; Arcane Barrage
+END
+VER 3 0100000000000004 "cs1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Counterspell; Counterspell
+END
+VER 3 0100000000000005 "cs2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Counterspell; Counterspell
+END
+VER 3 0100000000000006 "cs3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Counterspell; Counterspell
+END
+VER 3 0100000000000001 "pol1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Polymorph; Polymorph
+END
+VER 3 0100000000000002 "pol2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Polymorph; Polymorph
+END
+VER 3 0100000000000003 "pol3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Polymorph; Polymorph
+END
+VER 3 0100000000000007 "pom" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Arcane Power
+/use Charm of the Rising Tide
+/use Kil'jaeden's Burning Wish
+/use Vitality Resonator
+/use Tarnished Sentinel Medallion
+END

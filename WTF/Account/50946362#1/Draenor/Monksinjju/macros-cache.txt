@@ -1,0 +1,24 @@
+VER 3 0100000000000001 "CD's" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [talent: 8/3] Serenity
+/cast Storm, Earth, and Fire
+/cast Invoke Xuen, the White Tiger
+/cast Blood Fury(Racial)
+/cast Strike of the Windlord(Artifact)
+END
+VER 3 0100000000000005 "kick1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Paralysis; 
+/cast Paralysis
+END
+VER 3 0100000000000002 "para1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Paralysis; 
+/cast Paralysis
+END
+VER 3 0100000000000003 "para2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Paralysis; 
+/cast Paralysis
+END
+VER 3 0100000000000004 "para3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Paralysis; 
+/cast Paralysis
+END

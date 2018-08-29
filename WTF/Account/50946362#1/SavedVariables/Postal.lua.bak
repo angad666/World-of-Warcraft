@@ -1,0 +1,76 @@
+
+Postal3DB = {
+	["global"] = {
+		["BlackBook"] = {
+			["alts"] = {
+				"Banksinjju|Draenor|Horde|1|MONK", -- [1]
+				"Bobina|Draenor|Horde|110|MAGE", -- [2]
+				"Bobsinjju|Draenor|Horde|110|ROGUE", -- [3]
+				"Bobsinjoo|Draenor|Horde|110|HUNTER", -- [4]
+				"Bobsinju|Draenor|Horde|120|WARLOCK", -- [5]
+				"Bobsinmoo|Draenor|Horde|110|DRUID", -- [6]
+				"Deathsinjju|Draenor|Horde|110|DEATHKNIGHT", -- [7]
+				"Shambae|Draenor|Horde|120|SHAMAN", -- [8]
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Bobsinjju - Draenor"] = "Bobsinjju - Draenor",
+		["Deathsinjju - Draenor"] = "Deathsinjju - Draenor",
+		["Bobina - Draenor"] = "Bobina - Draenor",
+		["Bobsinjoo - Draenor"] = "Bobsinjoo - Draenor",
+		["Bobsinju - Draenor"] = "Bobsinju - Draenor",
+		["Banksinjju - Draenor"] = "Banksinjju - Draenor",
+		["Bobsinmoo - Draenor"] = "Bobsinmoo - Draenor",
+		["Shambae - Draenor"] = "Shambae - Draenor",
+	},
+	["profiles"] = {
+		["Bobsinjju - Draenor"] = {
+		},
+		["Deathsinjju - Draenor"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Bobsinmoo|Draenor|Horde", -- [1]
+				},
+			},
+		},
+		["Bobina - Draenor"] = {
+		},
+		["Bobsinjoo - Draenor"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Bobsinmoo|Draenor|Horde", -- [1]
+				},
+			},
+		},
+		["Bobsinju - Draenor"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Banksinjju|Draenor|Horde", -- [1]
+					"Bobsinmoo|Draenor|Horde", -- [2]
+				},
+			},
+		},
+		["Banksinjju - Draenor"] = {
+			["BlackBook"] = {
+				["contacts"] = {
+					"Bobsinmoo", -- [1]
+				},
+				["recent"] = {
+					"Bobsinju|Draenor|Horde", -- [1]
+					"Shambae|Draenor|Horde", -- [2]
+					"Bobsinmoo|Draenor|Horde", -- [3]
+				},
+			},
+		},
+		["Bobsinmoo - Draenor"] = {
+		},
+		["Shambae - Draenor"] = {
+			["BlackBook"] = {
+				["recent"] = {
+					"Banksinjju|Draenor|Horde", -- [1]
+				},
+			},
+		},
+	},
+}

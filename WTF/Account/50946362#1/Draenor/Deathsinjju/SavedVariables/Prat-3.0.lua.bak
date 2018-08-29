@@ -1,0 +1,204 @@
+
+Prat3CharDB = {
+	["history"] = {
+		["cmdhistory"] = {
+			["ChatFrame10EditBox"] = {
+			},
+			["ChatFrame7EditBox"] = {
+			},
+			["ChatFrame5EditBox"] = {
+			},
+			["ChatFrame8EditBox"] = {
+			},
+			["ChatFrame4EditBox"] = {
+			},
+			["ChatFrame6EditBox"] = {
+			},
+			["ChatFrame1EditBox"] = {
+			},
+			["ChatFrame3EditBox"] = {
+			},
+			["ChatFrame2EditBox"] = {
+			},
+			["ChatFrame9EditBox"] = {
+			},
+		},
+	},
+}
+Prat3HighCPUPerCharDB = {
+	["time"] = 1533612509,
+	["scrollback"] = {
+		["ChatFrame1"] = {
+			{
+				"|cff979797[08:56:21]|r|c00000000|r Received 37 Gold, 78 Silver, 61 Copper.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [1]
+			{
+				"|cff979797[08:56:21]|r|c00000000|r You receive item: |cff0070dd|Hitem:137642::::::::110:252::::::|h[Mark of Honor]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [2]
+			{
+				"|cff979797[08:56:22]|r|c00000000|r You receive item: |cff0070dd|Hitem:137642::::::::110:252::::::|h[Mark of Honor]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [3]
+			{
+				"|cff979797[08:56:22]|r|c00000000|r You receive item: |cff0070dd|Hitem:124441::::::::110:252::::::|h[Leylight Shard]|h|rx15.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [4]
+			{
+				"|cff979797[08:56:45]|r|c00000000|r |Hchannel:channel:1|h[1] |h Changed Channel: |Hchannel:1|h[1. General - Dalaran]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				67, -- [5]
+				false, -- [6]
+				5, -- [7]
+				6, -- [8]
+			}, -- [5]
+			{
+				"|cff979797[08:56:45]|r|c00000000|r |Hchannel:channel:3|h[3] |h Changed Channel: |Hchannel:3|h[3. LocalDefense - Dalaran]|h", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				69, -- [5]
+				false, -- [6]
+				8, -- [7]
+				9, -- [8]
+			}, -- [6]
+			{
+				"|cff979797[08:57:27]|r|c00000000|r Mejs seems to be sobering up.", -- [1]
+				1, -- [2]
+				1, -- [3]
+				0, -- [4]
+				1, -- [5]
+				false, -- [6]
+				1, -- [7]
+				2, -- [8]
+			}, -- [7]
+			{
+				"|cff979797[08:57:30]|r|c00000000|r |Hchannel:channel:2|h[2] |h|cffd8d8d8[|r|Hplayer:Tankyy-Draenor:177:CHANNEL:2|h|cffc41e3aTankyy|r|h|cffd8d8d8]|r: |cffffffff<|r|cff00ff00Deep in the Neck|r|cffffffff>|r is a HC raiding guild created by a core of 7/11m raiders. During BFA we will be aiming for curve in each tier, and push m+. Raid days are wed/sun 8-11 server. We are recruting DPS players. /w for more info.", -- [1]
+				1, -- [2]
+				0.752941250801086, -- [3]
+				0.752941250801086, -- [4]
+				68, -- [5]
+				false, -- [6]
+				11, -- [7]
+				12, -- [8]
+			}, -- [8]
+			{
+				"|cff979797[08:58:15]|r|c00000000|r You receive item: |cff00ccff|Hitem:142156::::::::110:252::14::::|h[Order Resources Cache]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [9]
+			{
+				"|cff979797[08:58:17]|r|c00000000|r You receive item: |cff00ccff|Hitem:142156::::::::110:252::14::::|h[Order Resources Cache]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [10]
+			{
+				"|cff979797[08:58:20]|r|c00000000|r You receive item: |cff00ccff|Hitem:142156::::::::110:252::14::::|h[Order Resources Cache]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [11]
+			{
+				"|cff979797[08:58:21]|r|c00000000|r You receive item: |cff00ccff|Hitem:142156::::::::110:252::14::::|h[Order Resources Cache]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [12]
+			{
+				"|cff979797[08:58:24]|r|c00000000|r You receive item: |cff00ccff|Hitem:142156::::::::110:252::14::::|h[Order Resources Cache]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [13]
+			{
+				"|cff979797[08:58:25]|r|c00000000|r You receive item: |cff00ccff|Hitem:142156::::::::110:252::14::::|h[Order Resources Cache]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [14]
+			{
+				"|cff979797[08:58:26]|r|c00000000|r You receive item: |cff00ccff|Hitem:142156::::::::110:252::14::::|h[Order Resources Cache]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [15]
+			{
+				"|cff979797[08:58:28]|r|c00000000|r You receive item: |cff00ccff|Hitem:142156::::::::110:252::14::::|h[Order Resources Cache]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [16]
+			{
+				"|cff979797[08:58:29]|r|c00000000|r You receive item: |cff00ccff|Hitem:142156::::::::110:252::14::::|h[Order Resources Cache]|h|r.", -- [1]
+				0, -- [2]
+				0.666666686534882, -- [3]
+				0, -- [4]
+				28, -- [5]
+				false, -- [6]
+				3, -- [7]
+				4, -- [8]
+			}, -- [17]
+		},
+	},
+}

@@ -1,0 +1,34 @@
+VER 3 0100000000000009 "123" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus, exists]Scatter Shot(Honor Talent);
+/cast Scatter Shot(Honor Talent)
+END
+VER 3 0100000000000007 "1shot" "INV_MISC_QUESTIONMARK"
+/cast A Murder of Crows
+/cast Trueshot
+END
+VER 3 0100000000000003 "in1" "INV_MISC_QUESTIONMARK"
+/cast [@arena1, exists] Counter Shot; Counter Shot
+END
+VER 3 0100000000000004 "int2" "INV_MISC_QUESTIONMARK"
+/cast [@arena2, exists] Counter Shot; Counter Shot
+END
+VER 3 0100000000000005 "int3" "INV_MISC_QUESTIONMARK"
+/cast [@arena3, exists] Counter Shot; Counter Shot
+END
+VER 3 0100000000000001 "ROS" "INV_MISC_QUESTIONMARK"
+/cast [@mouseover, exists] Roar of Sacrifice(Cunning Ability);
+/cast [@bobsinjoo] Roar of Sacrifice(Cunning Ability)
+END
+VER 3 0100000000000002 "sleep focus" "INV_MISC_QUESTIONMARK"
+/cast [talent: 5/2 ,@focus, exists] Wyvern Sting
+/cast [talent: 5/2] Wyvern Sting
+/cast [talent: 5/1] Binding Shot
+END
+VER 3 0100000000000008 "trap" "INV_MISC_QUESTIONMARK"
+/cast [@cursor] Freezing Trap
+END
+VER 3 0100000000000006 "VS" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus] Viper Sting
+END

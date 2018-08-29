@@ -1,0 +1,49 @@
+VER 3 000000000000003F "cot" "INV_MISC_QUESTIONMARK"
+/cast [@focus] Curse of Tongues
+END
+VER 3 0000000000000031 "havoc" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@focus, exists] Havoc; Havoc
+END
+VER 3 0000000000000033 "ht4" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [pvptalent:4/2]Casting Circle ; [pvptalent:4/3] Nether Ward;
+END
+VER 3 0000000000000034 "inc" "INV_MISC_QUESTIONMARK"
+/use Kil'jaeden's Burning Wish
+/cast Reap Souls(Artifact)
+END
+VER 3 000000000000003C "int1" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena1, exists] Spell Lock(Special Ability); Spell Lock(Special Ability)
+END
+VER 3 000000000000003D "int2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena2, exists] Spell Lock(Special Ability); Spell Lock(Special Ability)
+END
+VER 3 000000000000003E "int3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena3, exists] Spell Lock(Special Ability); Spell Lock(Special Ability)
+END
+VER 3 0000000000000043 "int3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@arena3, exists] Spell Lock(Special Ability); Spell Lock(Special Ability)
+END
+VER 3 0000000000000040 "petattack" "1385686"
+/cast Attack(Pet Command)
+END
+VER 3 0000000000000041 "petpassive" "136135"
+/cast Follow(Pet Command)
+END
+VER 3 0000000000000037 "Recruitment" "ACHIEVEMENT_GUILDPERK_MOBILEBANKING"
+/2  <Waifu Hunters> 3/10M NH are currently recruiting for mythic NH and M+ teams! We're urgently looking for  Melee DPS and HEALERS(Rsham,Rdruid), with additional requirements for all roles. Raid Nights are Thur/Fri/Sat.715 onwards. PST for more info!
+END
+VER 3 0000000000000044 "remove circle" "413591"
+/cancelaura Demonic Circle
+END
+VER 3 0000000000000042 "stunfocus" "INV_MISC_QUESTIONMARK"
+/cast [@focus, exists] Axe Toss(Special Ability); Axe Toss(Special Ability)
+END
+VER 3 000000000000003B "tott" "INV_MISC_QUESTIONMARK"
+/cast [@Olonor-Khadgar, exists] Tricks of the Trade; Tricks of the Trade
+END

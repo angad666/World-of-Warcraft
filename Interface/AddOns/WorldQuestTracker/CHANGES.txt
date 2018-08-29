@@ -1,0 +1,7 @@
+changeset:   305:a608ca28bece
+tag:         v8.0.1.305
+user:        Tercio
+date:        Tue Aug 21 17:54:11 2018 -0300
+summary:     - Fixed tooltips in the Taxi frame.
+
+
